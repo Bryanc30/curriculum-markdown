@@ -2,130 +2,58 @@
 
 ## Personal Details
 
-**Name:** Pedro Vinícius Silva de Paiva <br>
-**Email:** pedrovsp109@gmail.com  <br>
-**Date of birth:** 11/10/1990  <br>
-**Nationality:** Brazil  <br>
-**Marital Status:** Single  <br>
+**Name:** Bryan Clements <br>
+**Email:** bclem96@gmail.com  <br>
+**Date of birth:** 4/24/1998  <br>
+**Nationality:** United States  <br>
 
-## Skills
-
-**Medium level** <br>
-C++, C#, Unity, Java, JSF, Git, PostgreSQL, Django, Jekyll, HTML.
-
-**Beginner level** <br>
-C, PHP, Python, MySQL, Oracle,  SQL, Swift, Linux,  JPA, CSS, JavaScript, GIMP, AngularJS, Ruby, Rails, Laravel, NodeJS, Elasticsearch.
-
-## Related Work Experience
-
-**2016 - present** <br>
-**Institutional bond with the <a href="https://www.ifpb.edu.br/">IFPB</a>** - part of the team that is building the <a href="https://suap.ifpb.edu.br/bi/">"Banco de Competências"</a>. <br>
-Made with Django and PostgreSQL. <br>
-**Function:** with this engine it's possible to research professors working in the IFPB - Instituto Federal da Paraíba. Can find using name or skills.
-
-## Personal Projects
-
-**2017 - 2017** <br>
-**Knight Academy** - <a href="https://play.google.com/store/apps/details?id=com.tempolivregames.KnightAcademy&hl=pt_BR">Puzzle game</a> for Android made with Unity and C#. <br>
-**Roles:** Game Designer and Developer. <br>
-**Team:** two persons, the other is the game artist.
-
-**2017 - 2017** <br>
-**Mestre Sem Player** - <a href="http://mestresemplayer.com.br/">Personal Blog</a> made with Jekyll, HTML and CSS.
 
 ## Education
 
-**2014 - 2018** <br>
-**Technology and Systems for Internet** - IFPB (Federal Institute of Paraíba)  
+University of California Los Angeles, Westwood, CA
+Bachelor of Science, Biology
+GPA 3.8
 
-**2009 - 2013 (interrupted)** <br>
-**Mechanical Engineering** - UFPB (Federal University of Paraíba)    
+## Honors / Awards
 
-**2006 - 2008** <br>
-**High School** - Marista Pio X 
+Dean's List, UCLA Achievement Scholar
+Relevant Coursework: Chemistry 14A, LS 30A, LS 30B, Chemistry 14B, Chemistry 14C, Chemistry 14D, Physics 5A, Physics 5B, LS1, LS2 , LS3, LS4, Stats 13
 
-## Certificates
+## Experience
 
-**2018**<br>
-**Scrum Fundamentals Certified** <br>
-SCRUMstudy - Accreditation Body for Scrum and Agile - USA.
+**Orthopedic Specialty Institute**, Orange, California
+*Volunteer*
+Independently transferred thousands of digital patient files to a transferring doctor's new location
+Observed and assisted in many medical procedures
+Directed phone calls for the institute
+Checked in patients and brought then to their appropriate areas
 
-**2013** <br>
-**Empretec (60h)** <br>
-SEBRAE - RN, Brazil. 
+**Someone Cares Soup Kitchen**, Costa Mesa, California
+*Volunteer*
+Cooked large-serving meals in the mornings for the homeless
+Distributed meals to the homeless on days where I was not cooking
+Unloaded trucks of produce and other food products into the soup kitchen
+Worked with others to sort out donated clothing for children
+**UCLA Health**
+*Volunteer*
+Acting as a wayfinder, helping patients arrive at their proper destinations in and outside of the Ronald Reagan UCLA Medical Center
+**Jules Stein Eye Institute**
+Working as a student researcher via the SRP 99 program under Dr. Yang
 
-**2013** <br>
-**Motivating and Managing People (15h)** <br>
-EAD SEBRAE - Brazil.
+## Activities
 
-**2013** <br>
-**Starting a Small and Big Business (30h)** <br>
-EAD SEBRAE - Brazil.
+**Fountain Valley High School Royal Regiment Marching Band**, Fountain Valley, California
+*Section Leader*
+Successfully led a section of saxophones during a marching band season
+Worked together with other band leaders to create an enjoyable and productive environment for younger band members to learn and improve in
+**Achievement Scholar's Club**
+Participating in community service and fundraising, peer tutoring / mentoring
+**Pre-Optometry Club**
+Learning about optometry, its requirements, the application process, and so on
+**Christian Students Club**
+Active member in the Christian group, meeting on a weekly basis
 
-**2013** <br>
-**MEI Micropreneur Individual (5h)** <br>
-EAD SEBRAE - Brazil.
-
-**2013** <br>
-**Learn to endeavor (16h)** <br>
-EAD SEBRAE - Brazil.
-
-**2013** <br>
-**Web Designer (160h)** <br>
-SENAC - PB, Brazil.
-
-## Training
-
-**2018 - 2018** <br>
-**Algorithmic Problems in Java (7h)** <br>
-Udemy - USA.
-
-**2018 - 2018** <br>
-**Scrum - Patterns of Agile Adoption (2h)** <br>
-Udemy - USA.
-
-**2017 - 2017(interrupted)** <br>
-**Learn Rails 5 (API) + Angular 4/5 + NativeScript (apps) (50h)** <br>
-Udemy - USA.
-
-**2017 - 2017** <br>
-**Complete Guide to Elasticsearch (11h)** <br>
-Udemy - USA.
-
-**2017 - 2017 (interrupted)** <br>
-**Learn to Code by Making Games - Complete C# Unity Developer (52h)** <br>
-Udemy - USA.
-
-**2017 - 2017** <br>
-**Introduction to Laravel 5.3 (4h)** <br>
-Udemy - USA.
-
-**2017 - 2017** <br>
-**GIMP Beginner to Advanced: Complete Project Based Training (8h)** <br>
-Udemy - USA.
-
-**2017 - 2017** <br>
-**The Board Game Developer - Become A Game Design Ninja (6h)** <br>
-Udemy - USA.
-
-**2017 - 2017** <br>
-**Create Jekyll blog and host it on Github like a Ninja (2h)** <br>
-Udemy - USA.
-
-**2016 - 2016** <br>
-**The Complete SQL Bootcamp (8h)** <br>
-Udemy - USA.
-
-**2016 - 2016** <br>
-**Git Complete: The definitive, step-by-step guide to Git (6h)** <br> 
-Udemy - USA.
-
-## Other skills
-
-**Brazilian Portuguese:** native <br>
-**English:** advanced <br>
-
-## Training with programming challenges
-
-**Codewars bagdes:** <br>
-![alt text](https://www.codewars.com/users/VSPPedro/badges/large)
+## Skills
+**Lab:** General lab skills and experience; trained in lab safety and procedures from prior courses; currently a student researcher at the Jules Stein Eye Institute (JSEI) lab
+**Language:**Fluent in English, proficient in Spanish
+**Computer:**Generally very well-versed, some PythonT experience 
